@@ -1,0 +1,7 @@
+,marks,skipped_opens,traded,smile,thin,stale
+Always 1M 95% put,1345,0,1333,12,0,0
+Always 1M 95/85 put spread,2690,0,2582,108,0,0
+"Always 3M 95% put, rolled monthly",1536,0,1474,54,5,3
+"VIX-timed 3M put, hold",701,0,662,39,0,0
+VIX-timed 3M put + hybrid monetisation (proposed),686,0,647,39,0,0
+"VIX-timed 3M put, sell all at VIX 22",647,0,620,27,0,0

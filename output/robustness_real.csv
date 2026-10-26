@@ -1,0 +1,44 @@
+group,label,strategy,CAGR,maxDD,sharpe,CAGR_ex_covid,net_cost_pa
+Bid/ask haircut,0%,always_put,10.64,-20.843,0.296,12.698,0.783
+Bid/ask haircut,0%,timed_hold,9.244,-15.011,0.229,10.943,2.212
+Bid/ask haircut,0%,timed_hybrid,14.9,-22.773,0.537,16.222,-3.1
+Bid/ask haircut,1%,always_put,10.58,-20.888,0.291,12.653,0.838
+Bid/ask haircut,1%,timed_hold,8.918,-15.334,0.202,10.694,2.496
+Bid/ask haircut,1%,timed_hybrid,14.862,-22.786,0.534,16.185,-3.067
+Bid/ask haircut,2%,always_put,10.52,-20.934,0.287,12.609,0.892
+Bid/ask haircut,2%,timed_hold,8.594,-15.656,0.175,10.445,2.781
+Bid/ask haircut,2%,timed_hybrid,14.825,-22.799,0.532,16.147,-3.034
+Bid/ask haircut,5%,always_put,10.341,-21.072,0.274,12.475,1.055
+Bid/ask haircut,5%,timed_hold,7.625,-16.618,0.094,9.701,3.637
+Bid/ask haircut,5%,timed_hybrid,14.713,-22.838,0.525,16.034,-2.934
+Bid/ask haircut,10%,always_put,10.042,-21.302,0.253,12.252,1.328
+Bid/ask haircut,10%,timed_hold,6.025,-18.209,-0.039,8.472,5.072
+Bid/ask haircut,10%,timed_hybrid,14.526,-22.903,0.513,15.845,-2.768
+Liquidity cut-off,10 contracts,always_put,10.463,-21.072,0.283,12.609,0.942
+Liquidity cut-off,10 contracts,timed_hold,8.769,-15.513,0.193,10.606,2.621
+Liquidity cut-off,10 contracts,timed_hybrid,14.864,-22.799,0.534,16.19,-3.068
+Liquidity cut-off,200 contracts,always_put,10.517,-20.946,0.287,12.609,0.895
+Liquidity cut-off,200 contracts,timed_hold,8.228,-15.435,0.139,10.388,3.093
+Liquidity cut-off,200 contracts,timed_hybrid,14.777,-22.799,0.529,16.094,-2.993
+Liquidity cut-off,50 contracts,always_put,10.52,-20.934,0.287,12.609,0.892
+Liquidity cut-off,50 contracts,timed_hold,8.594,-15.656,0.175,10.445,2.781
+Liquidity cut-off,50 contracts,timed_hybrid,14.825,-22.799,0.532,16.147,-3.034
+Tenor (proposed rule),1M,timed_hybrid,10.887,-38.495,0.241,15.104,0.233
+Tenor (proposed rule),2M,timed_hybrid,10.69,-38.347,0.233,14.848,0.415
+Tenor (proposed rule),3M,timed_hybrid,14.825,-22.799,0.532,16.147,-3.034
+Tenor (proposed rule),6M,timed_hybrid,14.826,-21.412,0.529,15.398,-2.959
+Strike (proposed rule),90%,timed_hybrid,13.796,-25.255,0.453,15.656,-2.219
+Strike (proposed rule),95%,timed_hybrid,14.825,-22.799,0.532,16.147,-3.034
+Strike (proposed rule),100%,timed_hybrid,16.036,-17.729,0.633,16.22,-3.807
+Thresholds (proposed rule),"buy<12, sell at 20",timed_hybrid,15.228,-22.799,0.55,16.589,-3.388
+Thresholds (proposed rule),"buy<12, sell at 22",timed_hybrid,15.346,-22.799,0.558,16.719,-3.485
+Thresholds (proposed rule),"buy<12, sell at 25",timed_hybrid,15.921,-22.745,0.596,17.337,-3.93
+Thresholds (proposed rule),"buy<13, sell at 20",timed_hybrid,15.142,-22.799,0.551,16.495,-3.31
+Thresholds (proposed rule),"buy<13, sell at 22",timed_hybrid,14.825,-22.799,0.532,16.147,-3.034
+Thresholds (proposed rule),"buy<13, sell at 25",timed_hybrid,15.505,-22.745,0.578,16.879,-3.571
+Thresholds (proposed rule),"buy<14, sell at 20",timed_hybrid,15.103,-22.799,0.559,16.452,-3.285
+Thresholds (proposed rule),"buy<14, sell at 22",timed_hybrid,14.728,-22.799,0.536,16.04,-2.962
+Thresholds (proposed rule),"buy<14, sell at 25",timed_hybrid,14.894,-22.745,0.552,16.209,-3.089
+Thresholds (proposed rule),"buy<15, sell at 20",timed_hybrid,13.852,-22.799,0.477,15.079,-2.212
+Thresholds (proposed rule),"buy<15, sell at 22",timed_hybrid,13.556,-22.799,0.459,14.754,-1.955
+Thresholds (proposed rule),"buy<15, sell at 25",timed_hybrid,13.72,-22.745,0.474,14.92,-2.081
