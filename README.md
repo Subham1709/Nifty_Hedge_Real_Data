@@ -1,6 +1,6 @@
 # Nifty crash insurance, tested on real NSE option prices
 
-By **Subh** · [Live app](https://subham-nifty-hedge.streamlit.app) · [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://subham-nifty-hedge.streamlit.app)
+By **Subham** · [Live app](https://subham-nifty-hedge.streamlit.app) · [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://subham-nifty-hedge.streamlit.app)
 
 Does buying Nifty put options only when India VIX is low protect a portfolio without dragging down its return? A course project (FDRM, IIT Jodhpur) answered yes, but it priced every option with Black-Scholes because it had no historical option data. This project rebuilds the same backtest on **1.2 million real Nifty option prices** from NSE's daily F&O bhavcopies (Jan 2020 to Apr 2026). It then measures how far the model's prices were from the market's.
 

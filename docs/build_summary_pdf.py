@@ -12,7 +12,7 @@ from reportlab.platypus import Image, Paragraph, SimpleDocTemplate, Spacer, Tabl
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT, FIG = ROOT / "output", ROOT / "figures"
-AUTHOR = "Subh"
+AUTHOR = "Subham"
 LINKS = "github.com/Subham1709/Nifty_Hedge_Real_Data · app: subham-nifty-hedge.streamlit.app"
 R = json.loads((OUT / "results.json").read_text())
 perf = {p: pd.read_csv(OUT / f"performance_{p}.csv", index_col=0) for p in ("real", "model", "original")}

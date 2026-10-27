@@ -19,7 +19,7 @@ sys.path.insert(0, str(ROOT / "src"))
 import engine as E  # noqa: E402
 from chain import Chain, load_bhavcopy  # noqa: E402
 
-AUTHOR = "Subh"
+AUTHOR = "Subham"
 REPO_URL = "https://github.com/Subham1709/Nifty_Hedge_Real_Data"
 ORIGINAL_APP = "https://subham-fdrm-vix.streamlit.app"
 
