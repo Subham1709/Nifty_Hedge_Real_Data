@@ -63,4 +63,4 @@ To download the data again, open `data_download/nse_fo_download_colab.ipynb` in 
 | `output/results.json` | Every number quoted here |
 | `docs/` | Two-page summary (PDF) |
 
-Builds on a group course project (FDRM, IIT Jodhpur): [original app](https://subham-fdrm-vix.streamlit.app), [original code](https://github.com/Subham1709/FDRM_VIX). For learning and research, not investment advice.
+Builds on my FDRM course project at IIT Jodhpur, which I built solo: [original app](https://subham-fdrm-vix.streamlit.app), [original code](https://github.com/Subham1709/FDRM_VIX). For learning and research, not investment advice.
