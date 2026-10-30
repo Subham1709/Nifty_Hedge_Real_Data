@@ -95,7 +95,7 @@ def perf_view(t):
 # ---------- header ----------
 st.title("Nifty crash insurance, tested on real NSE option prices")
 st.markdown(
-    f"By **{AUTHOR}** · [Code on GitHub]({REPO_URL}) · Extends a group course project "
+    f"By **{AUTHOR}** · [Code on GitHub]({REPO_URL}) · Extends my solo FDRM course project "
     f"(FDRM, IIT Jodhpur) whose [original app]({ORIGINAL_APP}) priced options with a model  \n"
     f"{R['data']['option_rows']:,} daily Nifty option prices from NSE's official F&O bhavcopies, "
     f"{R['data']['start']} to {R['data']['end']}."
